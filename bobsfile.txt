@@ -1,1 +1,2 @@
 "Bob blob bob blob bob blob bob blob" 
+"Error: Could not find function 'destroyPineapples()'" 
